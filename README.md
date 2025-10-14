@@ -1,5 +1,5 @@
 **Mental Health Treatment Prediction for the Tech Industry**
-![Mental Health in Tech Dashboard UI](assets/dashboard-screenshot.jpg)
+
 This project is an end-to-end machine learning application that predicts whether an employee in the tech industry is likely to seek treatment for a mental health condition. The project includes a full data science pipeline from data cleaning and analysis to model training and deployment as a live web application.
 
 Live Application Link: https://mental-health-treatment-in-tech-industry.onrender.com
