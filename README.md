@@ -59,59 +59,34 @@ Mental health is a critical but often overlooked issue in the fast-paced tech in
 
 **Project Structure**
 
-Mini Hackathon!/
 
-├── data/
-
-│   ├── raw/
-
-│   │   └── survey.csv
-
-│   └── processed/
-
-│       └── processed_data.csv
-
-├── models/
-
-│   └── trained_model.pkl
-
-├── notebooks/
-
-│   ├── 1_data_cleaning.ipynb
-
-│   ├── 2_exploratory_analysis.ipynb
-
-│   ├── 3_feature_engineering.ipynb
-
-│   └── 4_model_training.ipynb
-
-├── src/
-
-│   ├── __init__.py
-
-│   ├── app.py                      # Main Flask application
-
-│   ├── data/
-
-│   │   └── preprocess.py
-
-│   ├── models/
-
-│   │   ├── predict.py
-
-│   │   └── train.py
-
-│   └── utils/
-
-│       └── helpers.py
-
-├── templates/
-
-│   └── form.html
-
-├── requirements.txt
-
-└── README.md
+      Mini Hackathon!/
+      ├── data/
+      │   ├── raw/
+      │   │   └── survey.csv
+      │   └── processed/
+      │       └── processed_data.csv
+      ├── models/
+      │   └── trained_model.pkl
+      ├── notebooks/
+      │   ├── 1_data_cleaning.ipynb
+      │   ├── 2_exploratory_analysis.ipynb
+      │   ├── 3_feature_engineering.ipynb
+      │   └── 4_model_training.ipynb
+      ├── src/
+      │   ├── __init__.py
+      │   ├── app.py                      # Main Flask application
+      │   ├── data/
+      │   │   └── preprocess.py
+      │   ├── models/
+      │   │   ├── predict.py
+      │   │   └── train.py
+      │   └── utils/
+      │       └── helpers.py
+      ├── templates/
+      │   └── form.html
+      ├── requirements.txt
+      └── README.md
 
 
 
