@@ -4,6 +4,8 @@ This project is an end-to-end machine learning application that predicts whether
 
 Live Application Link: https://mental-health-treatment-in-tech-industry.onrender.com
 
+![Mental Health in Tech Dashboard UI](assets/dashboard-screenshot.JPG)
+
 **Table of Contents**
 - Project Overview
 
