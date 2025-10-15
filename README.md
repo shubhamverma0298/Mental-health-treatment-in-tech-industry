@@ -127,5 +127,12 @@ python -m src.models.train
 Start the Flask development server.
 python src/app.py
 
+**Images**:-->>
 
+- **Yes**
 
+![Mental Health in Tech Dashboard UI](assets/Yes.JPG)
+
+- **No**
+
+![Mental Health in Tech Dashboard UI](assets/No.JPG)
