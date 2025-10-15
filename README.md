@@ -129,10 +129,10 @@ python src/app.py
 
 **Images**:-->>
 
-- **Yes**
+- **Yes Prediction**
 
-![Mental Health in Tech Dashboard UI](assets/Yes.JPG)
+![Mental Health in Tech Yes Prediction UI](assets/Yes.JPG)
 
-- **No**
+- **No Prediction**
 
-![Mental Health in Tech Dashboard UI](assets/No.JPG)
+![Mental Health in Tech No Prediction UI](assets/No.JPG)
